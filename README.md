@@ -1,4 +1,7 @@
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" width="50%" style="display: block; margin: 0 auto;">
+<p align="center">
+  <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" width="50%" alt="Image">
+</p>
+
 
 
 <h2>React js</h2>
